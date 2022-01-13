@@ -104,7 +104,7 @@ Citizen.CreateThread(function()
 end)
 
 ---------------------------------------------------------------------------
---- Remove Bunny Jop
+--- Remove Bunny Hop
 ---------------------------------------------------------------------------
 
 Citizen.CreateThread(function()
